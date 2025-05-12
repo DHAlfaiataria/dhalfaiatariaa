@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DH Alfaiataria</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="logo.png" alt="Logo DH Alfaiataria" class="logo">
+      <ul>
+        <li><a href="#servicos">Serviços</a></li>
+        <li><a href="#contato">Contato</a></li>
+        <li><a href="https://wa.me/5571982587756" target="_blank" class="whatsapp-btn">Fale Conosco</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Bem-vindo à DH Alfaiataria</h1>
+      <p>Roupas sob medida, com elegância e precisão.</p>
+    </section>
+
+    <section id="servicos">
+      <h2>Nossos Serviços</h2>
+      <ul>
+        <li>Confecção sob medida</li>
+        <li>Reformas e ajustes</li>
+        <li>Consultoria de estilo</li>
+      </ul>
+    </section>
+
+    <section id="contato">
+      <h2>Contato</h2>
+      <p>Entre em contato conosco pelo WhatsApp:</p>
+      <a href="https://wa.me/5571982587756" target="_blank" class="whatsapp-link">
+        📲 (71) 98258-7756
+      </a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 DH Alfaiataria. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="scripts.js"></
